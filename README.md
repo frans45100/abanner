@@ -21,21 +21,21 @@ ex: ./abanner "alslam"
                                        
 with following convention
 
-              Alif         Shift Sad           Nun
+              Alif ا       Shift Sad  ص           Nun ن 
                             Ctrl Dal
-              Ba                               Ha
-              Ta            Ctrl Ta            E tamarbuta
-        Shift Tha           Ctrl Za
-                                               Waw
-              Jim            @ `ain
-        Shift Ha             Ghain        Ctrl A alif duck shape
-        Shift Kha                              Ya
-                             Fa                ' hamza
-              Da                               ^U hamza at word end
-        Shift Dha            Qaf        Shift  A hamza on alif
-                                        Shift  I hamza on ya
-              Ra             Kaf        Shift  O hamza on waw
-              Zin                       Shift  U hamza on his own
-                             Lam
-              Sin                        CLOSE A WORD  : SPACE
-              Chin           Mim                            
+              Ba   ب                              Ha  ه 
+              Ta   ت        Ctrl Ta  ط            E tamarbuta ة 
+        Shift Tha  ث        Ctrl Za
+                                                 Waw  و
+              Jim  ج         @ `ain  ع 
+        Shift Ha             Ghain           Ctrl A alif duck shape  ى
+        Shift Kha                                Ya  ي
+                             Fa      ف            ' hamza ئ 
+              Da   د                             ^U hamza at word end ء 
+        Shift Dha            Qaf     ق     Shift  A hamza on alif  
+                                           Shift  I hamza on ya  
+              Ra   ر         Kaf     ك     Shift  O hamza on waw  
+              Zin                          Shift  U hamza on his own  ء
+                             Lam     ل
+              Sin                          CLOSE A WORD  : SPACE
+              Chin س         Mim     م                        
