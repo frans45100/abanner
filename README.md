@@ -22,20 +22,20 @@ ex: ./abanner "alslam"
 with following convention
 
               Alif ا       Shift Sad  ص           Nun ن 
-                            Ctrl Dal
+                            Ctrl Dal  ض
               Ba   ب                              Ha  ه 
               Ta   ت        Ctrl Ta  ط            E tamarbuta ة 
-        Shift Tha  ث        Ctrl Za
+        Shift Tha  ث        Ctrl Za  ظ
                                                  Waw  و
               Jim  ج         @ `ain  ع 
-        Shift Ha             Ghain           Ctrl A alif duck shape  ى
-        Shift Kha                                Ya  ي
+        Shift Ha   ح          Ghain           Ctrl A alif duck shape  ى
+        Shift Kha  ج                              Ya  ي
                              Fa      ف            ' hamza ئ 
-              Da   د                             ^U hamza at word end ء 
-        Shift Dha            Qaf     ق     Shift  A hamza on alif  
-                                           Shift  I hamza on ya  
-              Ra   ر         Kaf     ك     Shift  O hamza on waw  
-              Zin                          Shift  U hamza on his own  ء
+              Da   د                             
+        Shift Dha  ذ         Qaf     ق     Shift  A hamza on alif أ 
+                                           Shift  I hamza under alif  إ
+              Ra   ر         Kaf     ك     Shift  O hamza on waw ؤ 
+              Zin  ز                       Shift  U hamza on his own  ء
                              Lam     ل
               Sin                          CLOSE A WORD  : SPACE
               Chin س         Mim     م                        
