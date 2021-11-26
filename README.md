@@ -37,5 +37,5 @@ with following convention
               Ra   ر         Kaf     ك     Shift  O hamza on waw ؤ 
               Zin  ز                       Shift  U hamza on his own  ء
                              Lam     ل
-              Sin                          CLOSE A WORD  : SPACE
-              Chin س         Mim     م                        
+              Sin  س                        CLOSE A WORD  : SPACE
+              Chin ش         Mim     م                        
